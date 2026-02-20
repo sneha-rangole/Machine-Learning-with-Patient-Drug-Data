@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "a273e597",
+   "id": "fac13704",
    "metadata": {
     "papermill": {
-     "duration": 0.006309,
-     "end_time": "2026-02-19T02:50:37.010901",
+     "duration": 0.007552,
+     "end_time": "2026-02-20T00:18:31.867909",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.004592",
+     "start_time": "2026-02-20T00:18:31.860357",
      "status": "completed"
     },
     "tags": []
@@ -19,13 +19,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "be9500af",
+   "id": "e0ee20e1",
    "metadata": {
     "papermill": {
-     "duration": 0.005364,
-     "end_time": "2026-02-19T02:50:37.021612",
+     "duration": 0.006153,
+     "end_time": "2026-02-20T00:18:31.880867",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.016248",
+     "start_time": "2026-02-20T00:18:31.874714",
      "status": "completed"
     },
     "tags": []
@@ -36,13 +36,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "00106186",
+   "id": "b5fd1003",
    "metadata": {
     "papermill": {
-     "duration": 0.005096,
-     "end_time": "2026-02-19T02:50:37.031889",
+     "duration": 0.006644,
+     "end_time": "2026-02-20T00:18:31.894274",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.026793",
+     "start_time": "2026-02-20T00:18:31.887630",
      "status": "completed"
     },
     "tags": []
@@ -61,13 +61,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "aebda544",
+   "id": "8566aa31",
    "metadata": {
     "papermill": {
-     "duration": 0.004953,
-     "end_time": "2026-02-19T02:50:37.041846",
+     "duration": 0.006581,
+     "end_time": "2026-02-20T00:18:31.907182",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.036893",
+     "start_time": "2026-02-20T00:18:31.900601",
      "status": "completed"
     },
     "tags": []
@@ -91,13 +91,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7175de07",
+   "id": "9ac6d886",
    "metadata": {
     "papermill": {
-     "duration": 0.004946,
-     "end_time": "2026-02-19T02:50:37.051973",
+     "duration": 0.006454,
+     "end_time": "2026-02-20T00:18:31.919765",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.047027",
+     "start_time": "2026-02-20T00:18:31.913311",
      "status": "completed"
     },
     "tags": []
@@ -130,13 +130,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e527da54",
+   "id": "3fa40fe5",
    "metadata": {
     "papermill": {
-     "duration": 0.005015,
-     "end_time": "2026-02-19T02:50:37.061979",
+     "duration": 0.008116,
+     "end_time": "2026-02-20T00:18:31.934417",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.056964",
+     "start_time": "2026-02-20T00:18:31.926301",
      "status": "completed"
     },
     "tags": []
@@ -187,13 +187,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "50e328e9",
+   "id": "44bb7850",
    "metadata": {
     "papermill": {
-     "duration": 0.005008,
-     "end_time": "2026-02-19T02:50:37.071964",
+     "duration": 0.006167,
+     "end_time": "2026-02-20T00:18:31.947183",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.066956",
+     "start_time": "2026-02-20T00:18:31.941016",
      "status": "completed"
     },
     "tags": []
@@ -214,13 +214,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2770b599",
+   "id": "08e1158a",
    "metadata": {
     "papermill": {
-     "duration": 0.00537,
-     "end_time": "2026-02-19T02:50:37.082568",
+     "duration": 0.006118,
+     "end_time": "2026-02-20T00:18:31.959420",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.077198",
+     "start_time": "2026-02-20T00:18:31.953302",
      "status": "completed"
     },
     "tags": []
@@ -253,13 +253,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6e4572d0",
+   "id": "8140cfbc",
    "metadata": {
     "papermill": {
-     "duration": 0.005253,
-     "end_time": "2026-02-19T02:50:37.093110",
+     "duration": 0.006011,
+     "end_time": "2026-02-20T00:18:31.971634",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.087857",
+     "start_time": "2026-02-20T00:18:31.965623",
      "status": "completed"
     },
     "tags": []
@@ -328,13 +328,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "0cec9fb0",
+   "id": "b51d2d20",
    "metadata": {
     "papermill": {
-     "duration": 0.005213,
-     "end_time": "2026-02-19T02:50:37.103425",
+     "duration": 0.006395,
+     "end_time": "2026-02-20T00:18:31.984169",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.098212",
+     "start_time": "2026-02-20T00:18:31.977774",
      "status": "completed"
     },
     "tags": []
@@ -356,13 +356,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e580e100",
+   "id": "e809e2d3",
    "metadata": {
     "papermill": {
-     "duration": 0.005209,
-     "end_time": "2026-02-19T02:50:37.113922",
+     "duration": 0.006414,
+     "end_time": "2026-02-20T00:18:31.996650",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.108713",
+     "start_time": "2026-02-20T00:18:31.990236",
      "status": "completed"
     },
     "tags": []
@@ -468,13 +468,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "5707ace6",
+   "id": "d66c3d03",
    "metadata": {
     "papermill": {
-     "duration": 0.005258,
-     "end_time": "2026-02-19T02:50:37.124335",
+     "duration": 0.006029,
+     "end_time": "2026-02-20T00:18:32.009258",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.119077",
+     "start_time": "2026-02-20T00:18:32.003229",
      "status": "completed"
     },
     "tags": []
@@ -485,13 +485,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "62fd1eef",
+   "id": "5e43cc9d",
    "metadata": {
     "papermill": {
-     "duration": 0.00505,
-     "end_time": "2026-02-19T02:50:37.135260",
+     "duration": 0.006456,
+     "end_time": "2026-02-20T00:18:32.021872",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.130210",
+     "start_time": "2026-02-20T00:18:32.015416",
      "status": "completed"
     },
     "tags": []
@@ -538,13 +538,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "d57cc608",
+   "id": "75247930",
    "metadata": {
     "papermill": {
-     "duration": 0.005166,
-     "end_time": "2026-02-19T02:50:37.145462",
+     "duration": 0.006321,
+     "end_time": "2026-02-20T00:18:32.034652",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.140296",
+     "start_time": "2026-02-20T00:18:32.028331",
      "status": "completed"
     },
     "tags": []
@@ -578,19 +578,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "98b063a9",
+   "id": "5a6e3e40",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-02-19T02:50:37.158131Z",
-     "iopub.status.busy": "2026-02-19T02:50:37.157253Z",
-     "iopub.status.idle": "2026-02-19T02:50:40.405606Z",
-     "shell.execute_reply": "2026-02-19T02:50:40.404388Z"
+     "iopub.execute_input": "2026-02-20T00:18:32.048926Z",
+     "iopub.status.busy": "2026-02-20T00:18:32.048548Z",
+     "iopub.status.idle": "2026-02-20T00:18:35.564013Z",
+     "shell.execute_reply": "2026-02-20T00:18:35.563079Z"
     },
     "papermill": {
-     "duration": 3.257382,
-     "end_time": "2026-02-19T02:50:40.408049",
+     "duration": 3.525503,
+     "end_time": "2026-02-20T00:18:35.566358",
      "exception": false,
-     "start_time": "2026-02-19T02:50:37.150667",
+     "start_time": "2026-02-20T00:18:32.040855",
      "status": "completed"
     },
     "tags": []
@@ -631,13 +631,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "38e869bc",
+   "id": "b439399d",
    "metadata": {
     "papermill": {
-     "duration": 0.005415,
-     "end_time": "2026-02-19T02:50:40.420016",
+     "duration": 0.007441,
+     "end_time": "2026-02-20T00:18:35.580662",
      "exception": false,
-     "start_time": "2026-02-19T02:50:40.414601",
+     "start_time": "2026-02-20T00:18:35.573221",
      "status": "completed"
     },
     "tags": []
@@ -670,19 +670,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "d2cca215",
+   "id": "f7c20b01",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-02-19T02:50:40.432602Z",
-     "iopub.status.busy": "2026-02-19T02:50:40.432106Z",
-     "iopub.status.idle": "2026-02-19T02:50:40.480607Z",
-     "shell.execute_reply": "2026-02-19T02:50:40.479580Z"
+     "iopub.execute_input": "2026-02-20T00:18:35.596611Z",
+     "iopub.status.busy": "2026-02-20T00:18:35.595399Z",
+     "iopub.status.idle": "2026-02-20T00:18:35.634003Z",
+     "shell.execute_reply": "2026-02-20T00:18:35.632521Z"
     },
     "papermill": {
-     "duration": 0.057316,
-     "end_time": "2026-02-19T02:50:40.482763",
+     "duration": 0.04941,
+     "end_time": "2026-02-20T00:18:35.636508",
      "exception": false,
-     "start_time": "2026-02-19T02:50:40.425447",
+     "start_time": "2026-02-20T00:18:35.587098",
      "status": "completed"
     },
     "tags": []
@@ -714,13 +714,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "0afed10a",
+   "id": "bb62287a",
    "metadata": {
     "papermill": {
-     "duration": 0.005404,
-     "end_time": "2026-02-19T02:50:40.493687",
+     "duration": 0.006436,
+     "end_time": "2026-02-20T00:18:35.650536",
      "exception": false,
-     "start_time": "2026-02-19T02:50:40.488283",
+     "start_time": "2026-02-20T00:18:35.644100",
      "status": "completed"
     },
     "tags": []
@@ -750,19 +750,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "2b00100d",
+   "id": "b612b002",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-02-19T02:50:40.506448Z",
-     "iopub.status.busy": "2026-02-19T02:50:40.506070Z",
-     "iopub.status.idle": "2026-02-19T02:50:40.538901Z",
-     "shell.execute_reply": "2026-02-19T02:50:40.537794Z"
+     "iopub.execute_input": "2026-02-20T00:18:35.665782Z",
+     "iopub.status.busy": "2026-02-20T00:18:35.665402Z",
+     "iopub.status.idle": "2026-02-20T00:18:35.698608Z",
+     "shell.execute_reply": "2026-02-20T00:18:35.697287Z"
     },
     "papermill": {
-     "duration": 0.041671,
-     "end_time": "2026-02-19T02:50:40.540814",
+     "duration": 0.043387,
+     "end_time": "2026-02-20T00:18:35.700885",
      "exception": false,
-     "start_time": "2026-02-19T02:50:40.499143",
+     "start_time": "2026-02-20T00:18:35.657498",
      "status": "completed"
     },
     "tags": []
@@ -905,13 +905,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "4377cd1e",
+   "id": "d5e9d594",
    "metadata": {
     "papermill": {
-     "duration": 0.005519,
-     "end_time": "2026-02-19T02:50:40.552111",
+     "duration": 0.008291,
+     "end_time": "2026-02-20T00:18:35.716915",
      "exception": false,
-     "start_time": "2026-02-19T02:50:40.546592",
+     "start_time": "2026-02-20T00:18:35.708624",
      "status": "completed"
     },
     "tags": []
@@ -944,19 +944,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "e54ef7aa",
+   "id": "cf1c7c15",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-02-19T02:50:40.566206Z",
-     "iopub.status.busy": "2026-02-19T02:50:40.565847Z",
-     "iopub.status.idle": "2026-02-19T02:50:40.591513Z",
-     "shell.execute_reply": "2026-02-19T02:50:40.590416Z"
+     "iopub.execute_input": "2026-02-20T00:18:35.732739Z",
+     "iopub.status.busy": "2026-02-20T00:18:35.732352Z",
+     "iopub.status.idle": "2026-02-20T00:18:35.762892Z",
+     "shell.execute_reply": "2026-02-20T00:18:35.761332Z"
     },
     "papermill": {
-     "duration": 0.035469,
-     "end_time": "2026-02-19T02:50:40.593640",
+     "duration": 0.041138,
+     "end_time": "2026-02-20T00:18:35.765224",
      "exception": false,
-     "start_time": "2026-02-19T02:50:40.558171",
+     "start_time": "2026-02-20T00:18:35.724086",
      "status": "completed"
     },
     "tags": []
@@ -1034,13 +1034,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "64c4384e",
+   "id": "ac9eaeb9",
    "metadata": {
     "papermill": {
-     "duration": 0.00559,
-     "end_time": "2026-02-19T02:50:40.605024",
+     "duration": 0.006798,
+     "end_time": "2026-02-20T00:18:35.778955",
      "exception": false,
-     "start_time": "2026-02-19T02:50:40.599434",
+     "start_time": "2026-02-20T00:18:35.772157",
      "status": "completed"
     },
     "tags": []
@@ -1071,19 +1071,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "83a30185",
+   "id": "d54b0b79",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-02-19T02:50:40.618320Z",
-     "iopub.status.busy": "2026-02-19T02:50:40.617989Z",
-     "iopub.status.idle": "2026-02-19T02:50:40.640454Z",
-     "shell.execute_reply": "2026-02-19T02:50:40.639252Z"
+     "iopub.execute_input": "2026-02-20T00:18:35.794776Z",
+     "iopub.status.busy": "2026-02-20T00:18:35.794401Z",
+     "iopub.status.idle": "2026-02-20T00:18:35.816510Z",
+     "shell.execute_reply": "2026-02-20T00:18:35.815389Z"
     },
     "papermill": {
-     "duration": 0.031751,
-     "end_time": "2026-02-19T02:50:40.642598",
+     "duration": 0.03292,
+     "end_time": "2026-02-20T00:18:35.818655",
      "exception": false,
-     "start_time": "2026-02-19T02:50:40.610847",
+     "start_time": "2026-02-20T00:18:35.785735",
      "status": "completed"
     },
     "tags": []
@@ -1152,13 +1152,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "231dd99e",
+   "id": "6fa0f908",
    "metadata": {
     "papermill": {
-     "duration": 0.005777,
-     "end_time": "2026-02-19T02:50:40.654494",
+     "duration": 0.007489,
+     "end_time": "2026-02-20T00:18:35.833839",
      "exception": false,
-     "start_time": "2026-02-19T02:50:40.648717",
+     "start_time": "2026-02-20T00:18:35.826350",
      "status": "completed"
     },
     "tags": []
@@ -1188,19 +1188,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "c99ea606",
+   "id": "e1de0fad",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-02-19T02:50:40.668054Z",
-     "iopub.status.busy": "2026-02-19T02:50:40.667714Z",
-     "iopub.status.idle": "2026-02-19T02:50:40.680558Z",
-     "shell.execute_reply": "2026-02-19T02:50:40.679426Z"
+     "iopub.execute_input": "2026-02-20T00:18:35.849263Z",
+     "iopub.status.busy": "2026-02-20T00:18:35.848928Z",
+     "iopub.status.idle": "2026-02-20T00:18:35.861692Z",
+     "shell.execute_reply": "2026-02-20T00:18:35.860781Z"
     },
     "papermill": {
-     "duration": 0.022705,
-     "end_time": "2026-02-19T02:50:40.683100",
+     "duration": 0.022779,
+     "end_time": "2026-02-20T00:18:35.863411",
      "exception": false,
-     "start_time": "2026-02-19T02:50:40.660395",
+     "start_time": "2026-02-20T00:18:35.840632",
      "status": "completed"
     },
     "tags": []
@@ -1264,13 +1264,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b319a4e1",
+   "id": "7e2abb6d",
    "metadata": {
     "papermill": {
-     "duration": 0.006248,
-     "end_time": "2026-02-19T02:50:40.696057",
+     "duration": 0.007361,
+     "end_time": "2026-02-20T00:18:35.877795",
      "exception": false,
-     "start_time": "2026-02-19T02:50:40.689809",
+     "start_time": "2026-02-20T00:18:35.870434",
      "status": "completed"
     },
     "tags": []
@@ -1302,19 +1302,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "fb754203",
+   "id": "c98a9beb",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-02-19T02:50:40.710533Z",
-     "iopub.status.busy": "2026-02-19T02:50:40.709418Z",
-     "iopub.status.idle": "2026-02-19T02:50:42.743184Z",
-     "shell.execute_reply": "2026-02-19T02:50:42.742254Z"
+     "iopub.execute_input": "2026-02-20T00:18:35.894229Z",
+     "iopub.status.busy": "2026-02-20T00:18:35.893805Z",
+     "iopub.status.idle": "2026-02-20T00:18:37.937668Z",
+     "shell.execute_reply": "2026-02-20T00:18:37.936624Z"
     },
     "papermill": {
-     "duration": 2.045485,
-     "end_time": "2026-02-19T02:50:42.747695",
+     "duration": 2.057197,
+     "end_time": "2026-02-20T00:18:37.942474",
      "exception": false,
-     "start_time": "2026-02-19T02:50:40.702210",
+     "start_time": "2026-02-20T00:18:35.885277",
      "status": "completed"
     },
     "tags": []
@@ -1387,19 +1387,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "5e146ada",
+   "id": "456774b7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-02-19T02:50:42.767000Z",
-     "iopub.status.busy": "2026-02-19T02:50:42.766667Z",
-     "iopub.status.idle": "2026-02-19T02:50:44.577584Z",
-     "shell.execute_reply": "2026-02-19T02:50:44.576590Z"
+     "iopub.execute_input": "2026-02-20T00:18:37.964162Z",
+     "iopub.status.busy": "2026-02-20T00:18:37.963826Z",
+     "iopub.status.idle": "2026-02-20T00:18:39.784402Z",
+     "shell.execute_reply": "2026-02-20T00:18:39.783377Z"
     },
     "papermill": {
-     "duration": 1.826276,
-     "end_time": "2026-02-19T02:50:44.582781",
+     "duration": 1.836653,
+     "end_time": "2026-02-20T00:18:39.789202",
      "exception": false,
-     "start_time": "2026-02-19T02:50:42.756505",
+     "start_time": "2026-02-20T00:18:37.952549",
      "status": "completed"
     },
     "tags": []
@@ -1478,13 +1478,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "fed550ad",
+   "id": "2c7fb7a6",
    "metadata": {
     "papermill": {
-     "duration": 0.011569,
-     "end_time": "2026-02-19T02:50:44.606163",
+     "duration": 0.013934,
+     "end_time": "2026-02-20T00:18:39.816754",
      "exception": false,
-     "start_time": "2026-02-19T02:50:44.594594",
+     "start_time": "2026-02-20T00:18:39.802820",
      "status": "completed"
     },
     "tags": []
@@ -1507,19 +1507,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "c2dfd353",
+   "id": "e247dba0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-02-19T02:50:44.631170Z",
-     "iopub.status.busy": "2026-02-19T02:50:44.630819Z",
-     "iopub.status.idle": "2026-02-19T02:50:45.099962Z",
-     "shell.execute_reply": "2026-02-19T02:50:45.098800Z"
+     "iopub.execute_input": "2026-02-20T00:18:39.844827Z",
+     "iopub.status.busy": "2026-02-20T00:18:39.844489Z",
+     "iopub.status.idle": "2026-02-20T00:18:40.309942Z",
+     "shell.execute_reply": "2026-02-20T00:18:40.308600Z"
     },
     "papermill": {
-     "duration": 0.484388,
-     "end_time": "2026-02-19T02:50:45.102013",
+     "duration": 0.482244,
+     "end_time": "2026-02-20T00:18:40.312338",
      "exception": false,
-     "start_time": "2026-02-19T02:50:44.617625",
+     "start_time": "2026-02-20T00:18:39.830094",
      "status": "completed"
     },
     "tags": []
@@ -1599,6 +1599,730 @@
     "    strength = \"Strong\" if abs(corr) > 0.5 else (\"Moderate\" if abs(corr) > 0.3 else \"Weak\")\n",
     "    print(f\"   {col:30s}: {corr:.3f}  → {direction}, {strength}\")\n"
    ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "97b6743a",
+   "metadata": {
+    "papermill": {
+     "duration": 0.01447,
+     "end_time": "2026-02-20T00:18:40.343488",
+     "exception": false,
+     "start_time": "2026-02-20T00:18:40.329018",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "# Part 2.B — Data Cleaning"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f541d923",
+   "metadata": {
+    "papermill": {
+     "duration": 0.014225,
+     "end_time": "2026-02-20T00:18:40.372529",
+     "exception": false,
+     "start_time": "2026-02-20T00:18:40.358304",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Overview: Why Cleaning Is the Most Important Step\n",
+    "\n",
+    "In machine learning, there's a famous saying: **\"Garbage in, garbage out.\"**\n",
+    "\n",
+    "If you feed a neural network dirty, inconsistent, or improperly formatted data,\n",
+    "it will learn the wrong patterns — and produce wrong predictions.\n",
+    "No matter how sophisticated your model is, bad data ruins it.\n",
+    "\n",
+    "Data cleaning involves:\n",
+    "1. Removing duplicate rows\n",
+    "2. Handling missing values\n",
+    "3. Converting text to numbers (encoding)\n",
+    "4. Bringing all numbers to the same scale (scaling)\n",
+    "5. Removing columns that could cause data leakage\n",
+    "\n",
+    "---"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3396e806",
+   "metadata": {
+    "papermill": {
+     "duration": 0.014519,
+     "end_time": "2026-02-20T00:18:40.401319",
+     "exception": false,
+     "start_time": "2026-02-20T00:18:40.386800",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "## Step 8: Remove Duplicates\n",
+    "\n",
+    "### WHY?\n",
+    "A duplicate row means one patient appears twice with exactly the same values.\n",
+    "If the model sees the same patient twice, it effectively **memorizes that specific patient**\n",
+    "instead of learning general patterns. This leads to overfitting (covered in Phase 2C).\n",
+    "\n",
+    "### HOW does `drop_duplicates()` work internally?\n",
+    "Pandas hashes each row into a fingerprint. If two rows have identical fingerprints,\n",
+    "the second is marked as a duplicate and removed.\n",
+    "\n",
+    "### WHAT HAPPENS IF YOU SKIP IT?\n",
+    "Your model gets artificially better on training data because it \"memorized\" the duplicates,\n",
+    "but performs worse on new patients it hasn't seen.\n",
+    "\n",
+    "### ⚠️ BEGINNER MISTAKE:\n",
+    "Only checking for exact duplicates. Sometimes duplicates are fuzzy — same patient,\n",
+    "slightly different values due to data entry errors. Exact duplicate removal is the minimum."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "f9edda89",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-02-20T00:18:40.437347Z",
+     "iopub.status.busy": "2026-02-20T00:18:40.436973Z",
+     "iopub.status.idle": "2026-02-20T00:18:40.448031Z",
+     "shell.execute_reply": "2026-02-20T00:18:40.446976Z"
+    },
+    "papermill": {
+     "duration": 0.032649,
+     "end_time": "2026-02-20T00:18:40.450434",
+     "exception": false,
+     "start_time": "2026-02-20T00:18:40.417785",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Dataset size BEFORE deduplication: 1000 rows\n",
+      "Dataset size AFTER deduplication:  1000 rows\n",
+      "Duplicates removed: 0\n",
+      "No exact duplicates found — dataset is clean on this front.\n",
+      "\n",
+      "💡 NOTE: We also need to drop Patient_ID — it's an identifier, not a feature.\n",
+      "   We'll do this in the encoding step below.\n",
+      "\n",
+      " Working dataset confirmed: 1000 patients × 9 columns\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Remove Duplicate Rows\n",
+    "\n",
+    "original_size = len(df)\n",
+    "print(f\"Dataset size BEFORE deduplication: {original_size} rows\")\n",
+    "\n",
+    "# drop_duplicates() removes any row that is 100% identical to a previous row\n",
+    "# keep='first' → keep the first occurrence, remove subsequent ones\n",
+    "df_clean = df.drop_duplicates(keep='first')\n",
+    "\n",
+    "removed = original_size - len(df_clean)\n",
+    "print(f\"Dataset size AFTER deduplication:  {len(df_clean)} rows\")\n",
+    "print(f\"Duplicates removed: {removed}\")\n",
+    "\n",
+    "if removed == 0:\n",
+    "    print(\"No exact duplicates found — dataset is clean on this front.\")\n",
+    "else:\n",
+    "    print(f\"  {removed} duplicate rows removed!\")\n",
+    "    \n",
+    "print()\n",
+    "print(\"💡 NOTE: We also need to drop Patient_ID — it's an identifier, not a feature.\")\n",
+    "print(\"   We'll do this in the encoding step below.\")\n",
+    "\n",
+    "# Work with df_clean from here on\n",
+    "df = df_clean.copy()\n",
+    "print(f\"\\n Working dataset confirmed: {df.shape[0]} patients × {df.shape[1]} columns\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "05e101e5",
+   "metadata": {
+    "papermill": {
+     "duration": 0.015808,
+     "end_time": "2026-02-20T00:18:40.480905",
+     "exception": false,
+     "start_time": "2026-02-20T00:18:40.465097",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "---\n",
+    "## Step 9: Handle Missing Values\n",
+    "\n",
+    "### WHY?\n",
+    "Every ML algorithm we'll use requires complete data.\n",
+    "NaN values (missing) break the math. We have three options for each missing value:\n",
+    "1. **Drop the row** — if very few rows are affected\n",
+    "2. **Impute with mean/median** — replace missing value with the average of that column (for numbers)\n",
+    "3. **Impute with mode** — replace with most common value (for categories)\n",
+    "4. **Flag + impute** — create a new binary column \"was_this_missing\" AND impute\n",
+    "   (the presence/absence of data can itself be informative)\n",
+    "\n",
+    "### WHICH STRATEGY WHEN?\n",
+    "- **< 5% missing** → safe to drop rows or impute with mean/median\n",
+    "- **5–20% missing** → impute carefully, possibly flag\n",
+    "- **> 30% missing** → consider dropping the entire column; it may not be reliable\n",
+    "\n",
+    "### WHAT HAPPENS IF YOU SKIP IT?\n",
+    "`ValueError: Input contains NaN` — the model refuses to train. Or silently worse:\n",
+    "some models propagate NaN and produce NaN predictions for all patients.\n",
+    "\n",
+    "### ⚠️ BEGINNER MISTAKE:\n",
+    "Imputing BEFORE splitting into train/test. You must split first, then impute using only\n",
+    "the training data statistics (mean/mode of training set). Otherwise you \"leak\" test set\n",
+    "information into training — a form of data leakage!\n",
+    "(We'll handle this correctly in Phase 2C)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "2d694383",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-02-20T00:18:40.512582Z",
+     "iopub.status.busy": "2026-02-20T00:18:40.512208Z",
+     "iopub.status.idle": "2026-02-20T00:18:40.526377Z",
+     "shell.execute_reply": "2026-02-20T00:18:40.525130Z"
+    },
+    "papermill": {
+     "duration": 0.033277,
+     "end_time": "2026-02-20T00:18:40.528541",
+     "exception": false,
+     "start_time": "2026-02-20T00:18:40.495264",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "🔍 Missing value check before handling:\n",
+      "Patient_ID                 0\n",
+      "Age                        0\n",
+      "Gender                     0\n",
+      "Condition                  0\n",
+      "Drug_Name                  0\n",
+      "Dosage_mg                  0\n",
+      "Treatment_Duration_days    0\n",
+      "Side_Effects               0\n",
+      "Improvement_Score          0\n",
+      "dtype: int64\n",
+      "\n",
+      "\n",
+      "✅ All missing values handled!\n",
+      "Dataset shape: (1000, 9)\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Handle Missing Values\n",
+    "\n",
+    "print(\"🔍 Missing value check before handling:\")\n",
+    "print(df.isnull().sum())\n",
+    "print()\n",
+    "\n",
+    "# Our dataset appears complete, but let's demonstrate the proper strategy\n",
+    "# In REAL projects, you'd do this:\n",
+    "\n",
+    "# --- Strategy for NUMERICAL columns ---\n",
+    "# Fill with MEDIAN (more robust than mean for skewed data)\n",
+    "# median is the middle value — not pulled by extreme outliers like the mean is\n",
+    "numerical_cols = ['Age', 'Dosage_mg', 'Treatment_Duration_days']\n",
+    "for col in numerical_cols:\n",
+    "    n_missing = df[col].isnull().sum()\n",
+    "    if n_missing > 0:\n",
+    "        median_val = df[col].median()\n",
+    "        df[col] = df[col].fillna(median_val)\n",
+    "        print(f\"✅ Filled {n_missing} missing values in '{col}' with median ({median_val})\")\n",
+    "\n",
+    "# --- Strategy for CATEGORICAL columns ---\n",
+    "# Fill with MODE (most frequent value)\n",
+    "categorical_cols = ['Gender', 'Condition', 'Drug_Name', 'Side_Effects']\n",
+    "for col in categorical_cols:\n",
+    "    n_missing = df[col].isnull().sum()\n",
+    "    if n_missing > 0:\n",
+    "        mode_val = df[col].mode()[0]  # mode() returns a Series; [0] gets the top value\n",
+    "        df[col] = df[col].fillna(mode_val)\n",
+    "        print(f\"✅ Filled {n_missing} missing values in '{col}' with mode ('{mode_val}')\")\n",
+    "\n",
+    "# Final check\n",
+    "remaining = df.isnull().sum().sum()\n",
+    "print(f\"\\n{'✅ All missing values handled!' if remaining == 0 else f'⚠️ {remaining} values still missing'}\")\n",
+    "print(f\"Dataset shape: {df.shape}\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "82e46978",
+   "metadata": {
+    "papermill": {
+     "duration": 0.015535,
+     "end_time": "2026-02-20T00:18:40.559581",
+     "exception": false,
+     "start_time": "2026-02-20T00:18:40.544046",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "---\n",
+    "## Step 10: Encode Categorical Variables\n",
+    "\n",
+    "### WHY?\n",
+    "Neural networks are mathematical machines. They work with numbers — specifically,\n",
+    "they multiply, add, and compute gradients on numbers.\n",
+    "\n",
+    "The words \"Male\", \"Female\", \"Ciprofloxacin\" mean nothing to a neural network.\n",
+    "We need to convert every text column into numbers.\n",
+    "\n",
+    "### Two main encoding strategies:\n",
+    "\n",
+    "---\n",
+    "\n",
+    "**Label Encoding:**\n",
+    "Assigns each unique category a sequential integer.\n",
+    "- Male → 0\n",
+    "- Female → 1\n",
+    "\n",
+    "**When to use it:** When the categories have a natural order (ordinal data).\n",
+    "Example: \"Low\" → 0, \"Medium\" → 1, \"High\" → 2\n",
+    "The numbers preserve the ranking.\n",
+    "\n",
+    "**When NOT to use it:** When categories have NO natural order.\n",
+    "If you label-encode Drug_Name: Amoxicillin=0, Bupropion=1, Ciprofloxacin=2...\n",
+    "The model thinks Ciprofloxacin (2) is somehow \"twice\" as much as Bupropion (1).\n",
+    "That's completely wrong and will confuse the model!\n",
+    "\n",
+    "---\n",
+    "\n",
+    "**One-Hot Encoding (OHE):**\n",
+    "Creates one new binary column per category. Each column is 0 or 1.\n",
+    "- Gender: Male/Female becomes → `Gender_Male` (0 or 1) and `Gender_Female` (0 or 1)\n",
+    "- If a patient is Male: Gender_Male=1, Gender_Female=0\n",
+    "\n",
+    "**When to use it:** For NOMINAL categories (no order). Drug names, conditions, etc.\n",
+    "The model sees each category as an independent binary flag — no false ordering.\n",
+    "\n",
+    "**The Dummy Variable Trap:**\n",
+    "After OHE, you typically **drop one column per group** to avoid perfect redundancy.\n",
+    "If Gender_Male=1, you already know Gender_Female=0. Keeping both is redundant\n",
+    "and can mathematically destabilize some models. `drop_first=True` handles this.\n",
+    "\n",
+    "---\n",
+    "\n",
+    "### WHAT HAPPENS IF YOU SKIP ENCODING?\n",
+    "`ValueError: could not convert string to float` — the model cannot process text at all.\n",
+    "\n",
+    "### ⚠️ BEGINNER MISTAKE:\n",
+    "Using label encoding for nominal data (like Drug_Name), which introduces false ordering.\n",
+    "Always use One-Hot Encoding for categories with no natural order.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "dcb34669",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-02-20T00:18:40.595996Z",
+     "iopub.status.busy": "2026-02-20T00:18:40.595033Z",
+     "iopub.status.idle": "2026-02-20T00:18:40.603734Z",
+     "shell.execute_reply": "2026-02-20T00:18:40.602789Z"
+    },
+    "papermill": {
+     "duration": 0.031879,
+     "end_time": "2026-02-20T00:18:40.606569",
+     "exception": false,
+     "start_time": "2026-02-20T00:18:40.574690",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Removing Patient_ID (identifier column — no predictive value)...\n",
+      "Dropped Patient_ID. New shape: (1000, 8)\n",
+      "   Remaining columns: ['Age', 'Gender', 'Condition', 'Drug_Name', 'Dosage_mg', 'Treatment_Duration_days', 'Side_Effects', 'Improvement_Score']\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Drop Patient_ID (Identifier — Not a Feature)\n",
+    "\n",
+    "# Patient_ID is like a social security number — just an ID.\n",
+    "# P0001 is not \"more ill\" than P0002. The number carries no pattern.\n",
+    "# If left in, the model might accidentally learn \"Patient P0045 always scores 9.6\"\n",
+    "# — which is memorization, not generalization.\n",
+    "\n",
+    "print(\"Removing Patient_ID (identifier column — no predictive value)...\")\n",
+    "df = df.drop(columns=['Patient_ID'])\n",
+    "print(f\"Dropped Patient_ID. New shape: {df.shape}\")\n",
+    "print(f\"   Remaining columns: {list(df.columns)}\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "7d0d874b",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-02-20T00:18:40.648056Z",
+     "iopub.status.busy": "2026-02-20T00:18:40.647748Z",
+     "iopub.status.idle": "2026-02-20T00:18:40.676573Z",
+     "shell.execute_reply": "2026-02-20T00:18:40.674622Z"
+    },
+    "papermill": {
+     "duration": 0.054955,
+     "end_time": "2026-02-20T00:18:40.679634",
+     "exception": false,
+     "start_time": "2026-02-20T00:18:40.624679",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Columns BEFORE encoding:\n",
+      "Age                          int64\n",
+      "Gender                      object\n",
+      "Condition                   object\n",
+      "Drug_Name                   object\n",
+      "Dosage_mg                    int64\n",
+      "Treatment_Duration_days      int64\n",
+      "Side_Effects                object\n",
+      "Improvement_Score          float64\n",
+      "dtype: object\n",
+      "\n",
+      "Shape BEFORE encoding: (1000, 8)\n",
+      "Shape AFTER encoding:  (1000, 52)\n",
+      "\n",
+      "48 new binary columns created\n",
+      "\n",
+      "New columns after encoding (first 20):\n",
+      "   Gender_Male                                   → values: [np.int64(0), np.int64(1)]\n",
+      "   Condition_Diabetes                            → values: [np.int64(0), np.int64(1)]\n",
+      "   Condition_Hypertension                        → values: [np.int64(0), np.int64(1)]\n",
+      "   Condition_Infection                           → values: [np.int64(0), np.int64(1)]\n",
+      "   Condition_Pain Relief                         → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Amoxicillin                         → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Azithromycin                        → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Bupropion                           → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Ciprofloxacin                       → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Escitalopram                        → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Glipizide                           → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Ibuprofen                           → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Insulin Glargine                    → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Losartan                            → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Metformin                           → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Metoprolol                          → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Paracetamol                         → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Sertraline                          → values: [np.int64(0), np.int64(1)]\n",
+      "   Drug_Name_Tramadol                            → values: [np.int64(0), np.int64(1)]\n",
+      "   Side_Effects_Allergy                          → values: [np.int64(0), np.int64(1)]\n",
+      "   ... and 28 more\n",
+      "\n",
+      "Example: First patient after encoding:\n",
+      "                                     0\n",
+      "Age                               56.0\n",
+      "Dosage_mg                         50.0\n",
+      "Treatment_Duration_days            9.0\n",
+      "Improvement_Score                  8.5\n",
+      "Gender_Male                        1.0\n",
+      "Condition_Diabetes                 0.0\n",
+      "Condition_Hypertension             0.0\n",
+      "Condition_Infection                1.0\n",
+      "Condition_Pain Relief              0.0\n",
+      "Drug_Name_Amoxicillin              0.0\n",
+      "Drug_Name_Azithromycin             0.0\n",
+      "Drug_Name_Bupropion                0.0\n",
+      "Drug_Name_Ciprofloxacin            1.0\n",
+      "Drug_Name_Escitalopram             0.0\n",
+      "Drug_Name_Glipizide                0.0\n",
+      "Drug_Name_Ibuprofen                0.0\n",
+      "Drug_Name_Insulin Glargine         0.0\n",
+      "Drug_Name_Losartan                 0.0\n",
+      "Drug_Name_Metformin                0.0\n",
+      "Drug_Name_Metoprolol               0.0\n",
+      "Drug_Name_Paracetamol              0.0\n",
+      "Drug_Name_Sertraline               0.0\n",
+      "Drug_Name_Tramadol                 0.0\n",
+      "Side_Effects_Allergy               0.0\n",
+      "Side_Effects_Anxiety               0.0\n",
+      "Side_Effects_Back pain             0.0\n",
+      "Side_Effects_Constipation          0.0\n",
+      "Side_Effects_Cough                 0.0\n",
+      "Side_Effects_Diarrhea              0.0\n",
+      "Side_Effects_Dizziness             0.0\n",
+      "Side_Effects_Drowsiness            0.0\n",
+      "Side_Effects_Dry mouth             0.0\n",
+      "Side_Effects_Fatigue               0.0\n",
+      "Side_Effects_Headache              0.0\n",
+      "Side_Effects_Heartburn             0.0\n",
+      "Side_Effects_Injection site pain   0.0\n",
+      "Side_Effects_Insomnia              0.0\n",
+      "Side_Effects_Joint pain            0.0\n",
+      "Side_Effects_Liver issues          0.0\n",
+      "Side_Effects_Low blood sugar       0.0\n",
+      "Side_Effects_Low sugar             0.0\n",
+      "Side_Effects_Nausea                1.0\n",
+      "Side_Effects_Rash                  0.0\n",
+      "Side_Effects_Skin rash             0.0\n",
+      "Side_Effects_Sleep issues          0.0\n",
+      "Side_Effects_Slow heartbeat        0.0\n",
+      "Side_Effects_Stomach pain          0.0\n",
+      "Side_Effects_Stomach upset         0.0\n",
+      "Side_Effects_Sweating              0.0\n",
+      "Side_Effects_Swelling              0.0\n",
+      "Side_Effects_Tiredness             0.0\n",
+      "Side_Effects_Weight gain           0.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "# One-Hot Encode Categorical Columns\n",
+    "\n",
+    "print(\"Columns BEFORE encoding:\")\n",
+    "print(df.dtypes)\n",
+    "print()\n",
+    "\n",
+    "# pd.get_dummies() is Pandas' one-hot encoding function\n",
+    "# drop_first=True: drops first category per group to avoid the dummy variable trap\n",
+    "# dtype=int: makes the new columns 0/1 integers instead of True/False booleans\n",
+    "\n",
+    "# The categorical columns we need to encode\n",
+    "cols_to_encode = ['Gender', 'Condition', 'Drug_Name', 'Side_Effects']\n",
+    "\n",
+    "df_encoded = pd.get_dummies(df, columns=cols_to_encode, drop_first=True, dtype=int)\n",
+    "\n",
+    "print(f\"Shape BEFORE encoding: {df.shape}\")\n",
+    "print(f\"Shape AFTER encoding:  {df_encoded.shape}\")\n",
+    "print()\n",
+    "print(f\"{df_encoded.shape[1] - df.shape[1] + len(cols_to_encode)} new binary columns created\")\n",
+    "print()\n",
+    "print(\"New columns after encoding (first 20):\")\n",
+    "new_cols = [c for c in df_encoded.columns if any(c.startswith(cat) for cat in cols_to_encode)]\n",
+    "for col in new_cols[:20]:\n",
+    "    unique_vals = df_encoded[col].unique()\n",
+    "    print(f\"   {col:45s} → values: {sorted(unique_vals)}\")\n",
+    "\n",
+    "if len(new_cols) > 20:\n",
+    "    print(f\"   ... and {len(new_cols) - 20} more\")\n",
+    "\n",
+    "print()\n",
+    "print(\"Example: First patient after encoding:\")\n",
+    "print(df_encoded.head(1).T)  # .T transposes for readability (columns become rows)\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "48e7f492",
+   "metadata": {
+    "papermill": {
+     "duration": 0.014159,
+     "end_time": "2026-02-20T00:18:40.710720",
+     "exception": false,
+     "start_time": "2026-02-20T00:18:40.696561",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "---\n",
+    "## Step 11: Scale Numerical Features\n",
+    "\n",
+    "### WHY is scaling critical — especially for neural networks?\n",
+    "\n",
+    "Imagine you're trying to teach the neural network that both **Age** and **Dosage** matter.\n",
+    "\n",
+    "- Age ranges from 18 to 79 (range of ~61)\n",
+    "- Dosage ranges from 50 to 850 (range of ~800)\n",
+    "\n",
+    "When the neural network initializes its weights and computes gradients,\n",
+    "the Dosage feature will produce gradients that are ~13x larger than Age gradients.\n",
+    "This means the network pays much more \"attention\" to Dosage — not because it's more\n",
+    "important, but simply because its numbers are bigger.\n",
+    "\n",
+    "**The network becomes dominated by large-scale features and essentially ignores small-scale ones.**\n",
+    "\n",
+    "Scaling brings all features to the same range, so the network can evaluate each\n",
+    "feature fairly based on its actual predictive power.\n",
+    "\n",
+    "### Two main scaling strategies:\n",
+    "\n",
+    "**Min-Max Normalization (scales to 0–1):**\n",
+    "```\n",
+    "X_scaled = (X - X_min) / (X_max - X_min)\n",
+    "```\n",
+    "- Min value → 0, Max value → 1, everything else in between\n",
+    "- Great for neural networks\n",
+    "- Sensitive to outliers (one extreme value can compress everything else)\n",
+    "\n",
+    "**Standardization / Z-score Scaling (scales to mean=0, std=1):**\n",
+    "```\n",
+    "X_scaled = (X - mean) / std\n",
+    "```\n",
+    "- Mean becomes 0, one standard deviation away becomes 1 or -1\n",
+    "- More robust to outliers\n",
+    "- Commonly used with neural networks and most sklearn models\n",
+    "\n",
+    "**We'll use StandardScaler (standardization).**\n",
+    "\n",
+    "### ⚠️ CRITICAL RULE: The Data Leakage Problem in Scaling\n",
+    "\n",
+    "This is one of the most common beginner mistakes:\n",
+    "\n",
+    "**WRONG (data leakage):** \n",
+    "Scale all data, THEN split into train/test.\n",
+    "\n",
+    "Why wrong? When you compute the mean and std of the whole dataset,\n",
+    "you're using information from the test set to scale the training set.\n",
+    "In real deployment, you don't have future/test data when you're training.\n",
+    "Your model has \"peeked\" at the test set — your evaluation is dishonest.\n",
+    "\n",
+    "**CORRECT:**\n",
+    "Split first → Fit scaler on TRAINING data only → Transform both train AND test using training stats.\n",
+    "\n",
+    "We'll demonstrate this properly in Phase 2C.\n",
+    "\n",
+    "### WHAT HAPPENS IF YOU SKIP SCALING?\n",
+    "For neural networks: training becomes unstable, gradients explode or vanish,\n",
+    "and the model converges much slower or not at all.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "d4d68a42",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-02-20T00:18:40.741964Z",
+     "iopub.status.busy": "2026-02-20T00:18:40.741581Z",
+     "iopub.status.idle": "2026-02-20T00:18:40.752552Z",
+     "shell.execute_reply": "2026-02-20T00:18:40.751151Z"
+    },
+    "papermill": {
+     "duration": 0.029459,
+     "end_time": "2026-02-20T00:18:40.754617",
+     "exception": false,
+     "start_time": "2026-02-20T00:18:40.725158",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Feature matrix X: (1000, 51)  → 1000 patients × 51 features\n",
+      "Target vector  y: (1000,)  → 1000 improvement scores\n",
+      "\n",
+      "Feature columns (51 total):\n",
+      "     1. Age\n",
+      "     2. Dosage_mg\n",
+      "     3. Treatment_Duration_days\n",
+      "     4. Gender_Male\n",
+      "     5. Condition_Diabetes\n",
+      "     6. Condition_Hypertension\n",
+      "     7. Condition_Infection\n",
+      "     8. Condition_Pain Relief\n",
+      "     9. Drug_Name_Amoxicillin\n",
+      "    10. Drug_Name_Azithromycin\n",
+      "    11. Drug_Name_Bupropion\n",
+      "    12. Drug_Name_Ciprofloxacin\n",
+      "    13. Drug_Name_Escitalopram\n",
+      "    14. Drug_Name_Glipizide\n",
+      "    15. Drug_Name_Ibuprofen\n",
+      "    16. Drug_Name_Insulin Glargine\n",
+      "    17. Drug_Name_Losartan\n",
+      "    18. Drug_Name_Metformin\n",
+      "    19. Drug_Name_Metoprolol\n",
+      "    20. Drug_Name_Paracetamol\n",
+      "    21. Drug_Name_Sertraline\n",
+      "    22. Drug_Name_Tramadol\n",
+      "    23. Side_Effects_Allergy\n",
+      "    24. Side_Effects_Anxiety\n",
+      "    25. Side_Effects_Back pain\n",
+      "    26. Side_Effects_Constipation\n",
+      "    27. Side_Effects_Cough\n",
+      "    28. Side_Effects_Diarrhea\n",
+      "    29. Side_Effects_Dizziness\n",
+      "    30. Side_Effects_Drowsiness\n",
+      "    31. Side_Effects_Dry mouth\n",
+      "    32. Side_Effects_Fatigue\n",
+      "    33. Side_Effects_Headache\n",
+      "    34. Side_Effects_Heartburn\n",
+      "    35. Side_Effects_Injection site pain\n",
+      "    36. Side_Effects_Insomnia\n",
+      "    37. Side_Effects_Joint pain\n",
+      "    38. Side_Effects_Liver issues\n",
+      "    39. Side_Effects_Low blood sugar\n",
+      "    40. Side_Effects_Low sugar\n",
+      "    41. Side_Effects_Nausea\n",
+      "    42. Side_Effects_Rash\n",
+      "    43. Side_Effects_Skin rash\n",
+      "    44. Side_Effects_Sleep issues\n",
+      "    45. Side_Effects_Slow heartbeat\n",
+      "    46. Side_Effects_Stomach pain\n",
+      "    47. Side_Effects_Stomach upset\n",
+      "    48. Side_Effects_Sweating\n",
+      "    49. Side_Effects_Swelling\n",
+      "    50. Side_Effects_Tiredness\n",
+      "    51. Side_Effects_Weight gain\n",
+      "\n",
+      "Target (y) — first 10 values: [8.5 8.7 5.4 6.4 5.3 6.7 6.5 8.2 9.  9.1]\n",
+      "   Min: 2.5, Max: 10.0, Mean: 7.02\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Prepare Final Feature Matrix and Target Vector\n",
+    "\n",
+    "# Before scaling, let's separate our data into:\n",
+    "#   X → the feature matrix (everything the model uses as INPUT)\n",
+    "#   y → the target vector (what the model is trying to PREDICT)\n",
+    "#\n",
+    "# This separation is standard in all ML code.\n",
+    "\n",
+    "# Separate features (X) from target (y)\n",
+    "X = df_encoded.drop(columns=['Improvement_Score'])  # everything except the target\n",
+    "y = df_encoded['Improvement_Score']                  # just the target column\n",
+    "\n",
+    "print(f\"Feature matrix X: {X.shape}  → {X.shape[0]} patients × {X.shape[1]} features\")\n",
+    "print(f\"Target vector  y: {y.shape}  → {y.shape[0]} improvement scores\")\n",
+    "print()\n",
+    "print(f\"Feature columns ({X.shape[1]} total):\")\n",
+    "for i, col in enumerate(X.columns):\n",
+    "    print(f\"   {i+1:3d}. {col}\")\n",
+    "print()\n",
+    "print(f\"Target (y) — first 10 values: {y.values[:10]}\")\n",
+    "print(f\"   Min: {y.min()}, Max: {y.max()}, Mean: {y.mean():.2f}\")\n"
+   ]
   }
  ],
  "metadata": {
@@ -1637,14 +2361,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 12.075919,
-   "end_time": "2026-02-19T02:50:45.735142",
+   "duration": 13.187719,
+   "end_time": "2026-02-20T00:18:41.492597",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2026-02-19T02:50:33.659223",
+   "start_time": "2026-02-20T00:18:28.304878",
    "version": "2.6.0"
   }
  },
